@@ -34,7 +34,8 @@ echo "
                                                                      
 
 For Debian based Distros
-Developed by @FakeSmileVX and @0x733
+For Advanced Users
+Developed by @FakeSmileVX and @0x733"
 echo
 echo
 
