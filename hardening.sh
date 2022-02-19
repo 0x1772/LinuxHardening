@@ -11,8 +11,8 @@
 #
 # Websites
 #
-# www.fakesmile.art
-# www.inenarratus.com
+#
+#
 #
 # https://github.com/FakeSmileVX/LinuxHardening
 
